@@ -14,3 +14,6 @@ These are some of the python scripts  I wrote to automate some of my tasks
 6) Workout tracking : This script takes input your workout information in natural language and using the nutritionix api it extracts the useful workout information and stores your workout information on google sheets.
 
 7) Cookie_Clicker bot: A bot that plays the cookie clicker game using selenium
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/50051546/105710376-d9187c80-5f38-11eb-8f73-8d4967ff7d79.gif)
+
