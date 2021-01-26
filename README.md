@@ -17,3 +17,5 @@ These are some of the python scripts  I wrote to automate some of my tasks
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/50051546/105710376-d9187c80-5f38-11eb-8f73-8d4967ff7d79.gif)
 
+8) Linkedin bot that autosubmits job applications
+
